@@ -1,0 +1,12 @@
+node_modules/
+dist/
+
+server/recognize
+
+server/data/
+
+.env
+.env.*
+!.env.example
+*.sqlite*
+.DS_Store
